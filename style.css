@@ -1,0 +1,84 @@
+body,
+html {
+  color: black;
+  width: 100%;
+  height: 100%;
+ font-family: sans-serif: bold;
+  background: url(header.jpg)center center no-repeat;
+}
+.main-text{
+  font-family: 'Prosto One', cursive;
+  font-family: 'Unbounded', cursive;
+  font-size: x-large;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+
+}
+.navtitle{
+  margin-right: 9px;
+}
+
+.about{
+  margin-top: 8px;
+  margin-right: 10px;
+  color: azure;
+  font-family: ;
+}
+
+.support{
+    margin-top: 8px;
+    color: azure;
+}
+
+.navbar-brand{
+  color: azure;
+}
+
+.findout-btn{
+  border-radius: 300px;
+  font-weight: 700;
+  padding: 1rem 2rem;
+}
+
+.btn-xl{
+  padding: 1rem 2rem;
+}
+
+.btn-primary {	
+  background-color: #F05F44;	
+  border-color: #F05F44;	
+  --bs-btn-hover-bg: #ee4b08;	
+  --bs-btn-hover-border-color: #ee4b08;
+}
+
+.buffer{
+height: 10 rem;
+}
+
+.p{
+  font-family: 'Prosto One', cursive;
+  font-size: medium;
+  color: rgb(126, 126, 126);
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .btn-secondary{
+  background-color: black;
+  border-color:rgb(245, 245, 245);
+  --bs-btn-hover-bg: #000000;	
+  --bs-btn-hover-border-color: #ee4b08;
+} */
+
+/* this is the hr tag from udmey */
+hr {
+    margin: 20px auto;
+    color: #F05F44;
+    border: 3px solid #F05F44;
+    max-width: 65px;
+    opacity: 1;  
+}
+/* this is the hr tag from udmey */
